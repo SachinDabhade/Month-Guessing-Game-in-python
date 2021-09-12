@@ -1,4 +1,4 @@
-# ******************** Animal Guessing Game ***************************
+# ******************** Month Guessing Game ***************************
 
 # Importing library
 from datetime import datetime
